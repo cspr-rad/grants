@@ -2,14 +2,13 @@
 
 ## Project
 
-* Casper L2
-* zkEVM Rollup on Casper L1
+* zkEVM L2 on Casper
 
 ## Grant Summary
 
 * Amount
 
-	* 50k USD
+	* 30k USD
 
 * Duration
 
@@ -19,7 +18,7 @@
 
 	* M1
 		* 22/02/24 -> 30/03/24 
-		* Payment of 25k USD upon grant signature date.  
+		* Payment of 30K USD upon grant signature date.  
 
 	* M2
 		* 30/03/24 -> 31/04/24 
@@ -38,3 +37,7 @@
 	* Succesful implementation of CDK or Rollup Stack on Casper
 
 ## NOTES
+
+	* Technical complexity: high.
+	* Technical feasibilty: high.
+	* Grantee track record: good.

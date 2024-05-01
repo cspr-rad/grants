@@ -2,8 +2,7 @@
 
 ## Project
 
-* Casper L2
-* zkEVM Rollup on Casper L1
+* zkEVM L2 on Casper
 
 ## Project Lead
 
