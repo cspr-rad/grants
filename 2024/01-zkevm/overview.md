@@ -3,6 +3,7 @@
 ## Project
 
 * KYLO :: zkEVM L2 on Casper
+* Digichain Global Holdings LLC
 
 ## Project Lead
 
@@ -26,8 +27,8 @@ With this important first step, we aim to make the Casper blockchain even more a
 
 ## Further Information
 
-* Project Name = Casper L2
-* Project Description = zkEVM Rollup on Casper L1
+* Project Name = KYLO :: zkEVM L2 on Casper
+* Project Description = zkEVM Rollup integrating with Casper L1
 * Partner Name = Digichain global Holdings LLC
 * Partner Representative = Siddarth Sridhar
 * Position = Project Lead
