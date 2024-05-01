@@ -1,8 +1,8 @@
-# Grant 24-H1-01 Overview
+# Grant 24-01 Overview
 
 ## Project
 
-* zkEVM L2 on Casper
+* KYLO :: zkEVM L2 on Casper
 
 ## Project Lead
 
@@ -28,7 +28,7 @@ With this important first step, we aim to make the Casper blockchain even more a
 
 * Project Name = Casper L2
 * Project Description = zkEVM Rollup on Casper L1
-* Partner Name = FentonVM
+* Partner Name = Digichain global Holdings LLC
 * Partner Representative = Siddarth Sridhar
 * Position = Project Lead
 * Address = 0202bf7beeeb85583a1f4658c0ccea209c6b4b5670b56b2a1f04cefb1b7ca5fff2b5
